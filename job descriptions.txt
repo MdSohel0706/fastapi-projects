@@ -1,0 +1,222 @@
+PYTHON DEVELOPER JOB
+--------------------
+
+RADIANT WEB STUDIO
+
+Job Title:
+Full Stack JavaScript and Python Developer
+
+Job Description:
+JavaScript/HTML/CSS
+UI and UX
+Rest API
+
+-------------------------------------------------
+Mindbowser Inc
+
+Job Title:
+Python Django Developer 2 to 4 years
+
+Job Description:
+REST API's using Django Rest Framework
+ORM (Object Relational Mapper)
+--------------------------------------------------
+Durus Consulting Private Limited
+
+Job Title:
+Python Developer
+
+Job Description:
+Strong in Python
+Strong in Snowflake
+ETL is preferred
+--------------------------------------------------
+Rabbani ITI
+
+Job Title:
+Python Developer
+
+Job Description:
+REST API
+Python API Development (Swagger)
+Python Full stack(developer) Python framework (Flask, Dash etc)
+Angular OR HTML5 , Javascript, Jquery
+MySQL
+Knowledge on Oracle
+---------------------------------------------------
+Dataviv Technologies
+
+Job Title:
+Artificial Intelligence with django
+
+Job Description:
+Django
+CSS, JavaScript, HTML
+Data cleansing
+Data wrangling
+Analysis of data
+Visualisation of data
+Statististics
+---------------------------------------------------
+Continual Engine
+
+Job Title:
+Python Developer
+
+Job Description:
+Python & Django, Django Rest Framework
+AWS, Azure
+Docker
+---------------------------------------------------
+SecureKloud Technologies
+
+Job Title:
+Python Developer
+
+Job description:
+Python and Python Frameworks
+Rest API
+Strong in SQL
+Cloud and Data Engineering
+AWS OR GCP OR Azure
+---------------------------------------------------
+UST
+
+Job Title:
+Python developer with Flask
+
+Job Description:
+API Development with Flask
+Python
+Pandas
+---------------------------------------------------
+Oracle
+
+Job Title:
+Python Developer
+
+Job Description:
+Strong Python knowledge
+Build and execute unit tests and unit test plans
+0-2 years of previous software engineering or related experience
+----------------------------------------------------
+Accenture
+
+Job Title:
+Python Programming Language Application Developer
+
+Job Description:
+Django and Flask
+Angular
+HTML
+SSL
+JavaScript
+TypeScript
+----------------------------------------------------
+
+AUTOMATION TESTING
+----------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***********AUTOMATION TESTING WITH PYTHON****************
+================================================================================================================================================================================
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.TEJASNETWORKS ==>AUTOMATION TESTING L2L3PROTOCOLS --PYTHON
+
+JD::-> Python, Perl along with L2,L3 protocols(RIP, BGP, OSPF, LDP)
+------------------------------------------------------------------------------------------------------------
+2.DELL ==> RPA DEVLOPER AUTOMATION
+
+JD::->SQL, python, SharePoint and Power BI (to include power query)
+------------------------------------------------------------------------------------------------
+3.WINFOGOBAL TECHNOLOGIES ==>PYTHON AUTOMATION
+
+JD::->Experience with Agile Software Workflows such as Scrum
+
+      Experience with Git, Jira and Confluence
+
+      Should be an expert in Python (OOPS) & PYTEST FRAME WORK
+
+      API testing & developing automation test script for mobile or tablet devices using Appium
+      
+      Experience testing Firmware is plus
+
+      Develop and implement unit and integration test cases and scripts for embedded firmware
+
+----------------------------------------------------------------------------------------------------------------------
+4.ACCENTURE ==>PYTHON PROGRAMMING LANGUAGE TEST AUTOMATION ENGINEER
+
+JD::->1 Automation script development for network testing using Robot or Python or any other automation tools for network testing
+      2 API integration with test tools / network management systems
+      3 Automation of application testing using Devops tools, work on Jenkins, Git repository, Jira ticketing 4 Automation development in Agile methodology5 Participates in and contributes to internal design reviews of testing materials6 Troubleshoot the issues in automation code and resolve
+
+        Strong hands-on skills with, Python automation, Robot, APIs skills, Test Scripting, Jenkins, CICD tools and Agile experience2  
+        Experience in 4G/5G mobile network testing Understanding of data / voice call flows in 4G / 5G networks3 Hands-on in Kubernetes, and cloud solutions Test tools like Spirent, Keysight, Viavi
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.HCL ==>PYTHON AUTOMATION TESTING
+
+JD::->Automation framework Architect : Framework Development, LDAP, Openstack, Python, Jenkins, GIT
+      Automation Engineer :Python, Robot Framework, Traffic Generators, Load scenarios
+      Development and Test Frameworks,ROBOT,Jenkins,Groovy,Python Development,GIT
+---------------------------------------------------------------------------------------------------------------------------------------------------
+6.THINKPALM TECHNOLOGIES==>PYTHON AUTOMATION TEST ENGINEER
+
+JD::->Python with Storage/Networking or Developer interested to work to testing
+      Python/Perl/Golang/.net
+      Should know REST API calls too
+      AUTOMATION TESTING
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.STAG SOFTWARE ==>PYTHON AUTOMATION
+
+JD::->Strong knowledge of Python
+      Experience with API/REST web services automation using Requests
+      Exposure to developing Python based automation framework
+      Solid knowledge of Selenium
+      Detailed knowledge of RDBMS database preferably MySQL
+      Working experience with CI tools such as Jenkins & SonarQube
+      Identifying and improving on test scenarios during automation
+      Experience with On Performance Testing using JMeter is a plus
+      Knowledge on Linux OS/Shell scripting will be an added advantage for us
+      Knowledge on Appium Automation will be a plus
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+8.ENCORA ==>AUTOMATION QA
+
+JD::->Java/Python Coding experience, Experienced in API automation
+      Experience in Protractor is mandate
+      Experience in automation framework development with Selenium
+      Strong API automation experience with Rest Assured framework
+      Knowledge/experienced in Rest API Skills from testing tools perspective e.g. Postman, SOAP UI, testing RESTAPI.
+      Good experience in Automation, manual and performance testing, JMeter experience
+      Design and execute QA tests using scripts, create and execute test cases for databases like MS SQLServer, MongoDB,
+      Good knowledge on Agile/Scrum process
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.L&T ==>AUTOMATION TESTER PYTHON
+
+JD::->Experience in Python Scripting
+      Hands on experience in Testing tools & Defect logging tools ( E-Sys, Ediabas, JIRA, ALM, dlt viewer, Winscp. )
+      Experience in system or software testing of Linux/Android based platforms
+      Experience in UI development
+      Test Automation Framework Experience
+      Knowledge on trace analysis
+      Ideally ISTQB-certified tester
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+10.ALLEGIES SERVICES INDIA ===> PYTHON AUTOMATION  TESTING
+
+JD::->Sound in Test Automation using Python .
+      Ability to script from scratch to ensure maximum requirement coverage and optimized smart code
+      Good at Static analysis
+      Skillful to build and enhance test automation frameworks
+      Exposure in Selenium tools/ libraries
+      Desired to have Knowledge in Metering / experience in Metering.
+      Experience in CI/CD is an added advantage
+
+----------------------------------------------------------------------------------
+
+
+
+
+
+
